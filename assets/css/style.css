@@ -1,0 +1,37 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fafafa;
+  color: #222;
+  margin: 0;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #111;
+  color: white;
+}
+
+header nav a {
+  color: #00bfa5;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #111;
+  color: #aaa;
+}
