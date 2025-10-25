@@ -22,7 +22,7 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 ## 🧩 Featured Projects
 
 ### 🏆 [Hackathon Project – “MamaMind - Gentle Guidance for New Beginnings”](#)
-- **Goal:** [MamaMind aims to create a safe and supportive environment for individuals experiencing perinatal depression, offering them the tools and resources needed to navigate their mental health journey. MamaMind is an intelligent mental health chatbot designed to provide support and assistance to individuals experiencing perinatal depression. The application offers a range of functionalities tailored to help users understand, manage, and alleviate their mental health challenges through a friendly and supportive interface. ]  
+- **Goal:** MamaMind aims to create a safe and supportive environment for individuals experiencing perinatal depression, offering them the tools and resources needed to navigate their mental health journey. MamaMind is an intelligent mental health chatbot designed to provide support and assistance to individuals experiencing perinatal depression. The application offers a range of functionalities tailored to help users understand, manage, and alleviate their mental health challenges through a friendly and supportive interface.
 - **Tech:** Python, Transformers, Hugging Face, Streamlit, Langchain, RAG, Faiss, CSS, Sentence-transformers, Groq model
 - **Highlight:** Winner of [Taskformer's AI Chatbot Hackathon](https://devpost.com/software/hopebuddy) along with my teammates.
 
@@ -31,14 +31,14 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 ### 🌍 Omdena Projects
 | Project | Focus | Tech Stack | Link |
 |----------|--------|-------------|------|
-| Mapping seagrass meadows using satellite imagery and computer vision |Computer Vision | Google Earth Engine, Python, GIS, Deep Learning| [GitHub / Article](#) |
-| Developing an AI-powered App for Predictive Modeling and Forecasting of Malaria Prevention in Liberia | Predictive Model | TensorFlow, OpenCV | [GitHub / Article](#) |
+| Mapping seagrass meadows using satellite imagery and computer vision |Computer Vision | Google Earth Engine, Python, GIS, Deep Learning| [GitHub / Article](https://dagshub.com/NPriyanka/TriesteItalyChapter_MappingSeagrassMeadows) |
+| Developing an AI-powered App for Predictive Modeling and Forecasting of Malaria Prevention in Liberia | Predictive Model | TensorFlow, OpenCV | [GitHub / Article](https://dagshub.com/NPriyanka/LiberiaChapter_MalariaPrevention) |
 | Leveraging LLMs to Understand Global Mental Health Well-being & Fomo | NLP | Hugging Face, Transformers | [GitHub / Article](#) |
-| Developing Personalized AI Travel Advisors for Paris Olympics 2024 | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](#) |
-| Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](#) |
-| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | GEE, Python, GIS libraries | (Github / Article](#) |
+| Developing Personalized AI Travel Advisors for Paris Olympics 2024 | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/ParisFranceChapter_AITravelAdvisors) |
+| Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/KitweChapter_ForecastingCOVID19Dynamics) |
+| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | GEE, Python, GIS libraries | (Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
 | Omdena AI Innovation Challenge: Intelligent Route Optimization Model for Field Sales Agents | Route Optimization | OpenRoute | 
-| Building AI Solutions for Mental Health and Well-being for Bhutan | Generative AI, Multi-agent systems | CrewAI, Langchain, PostgreSQL, RAG, FASTAPI, Docker | (Github / Article](#)| 
+| Building AI Solutions for Mental Health and Well-being for Bhutan | Generative AI, Multi-agent systems | CrewAI, Langchain, PostgreSQL, RAG, FASTAPI, Docker | | 
 
 ---
 
