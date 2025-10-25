@@ -2,7 +2,7 @@
 
 🎯 **AI Collaborator and ML Engineer | Machine Learning Enthusiast | Hackathon Winner**  
 🌍 Collaborated on 8+ global AI projects with **Omdena**  
-💡 Skilled in **NLP, LLMs, Computer Vision, Generative AI, and Multi-agentic systems**
+💡 Skilled in **Python, Machine learning, Data Science, Deep Learning, Natural Language Processing, Large Language Models, Computer Vision, Generative AI, and Multi-agentic systems**
 
 ---
 
@@ -32,12 +32,12 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 | Project | Focus | Tech Stack | Link |
 |----------|--------|-------------|------|
 | Mapping seagrass meadows using satellite imagery and computer vision |Computer Vision | Google Earth Engine, Python, GIS, Deep Learning| [GitHub / Article](https://dagshub.com/NPriyanka/TriesteItalyChapter_MappingSeagrassMeadows) |
-| Developing an AI-powered App for Predictive Modeling and Forecasting of Malaria Prevention in Liberia | Predictive Model | TensorFlow, OpenCV | [GitHub / Article](https://dagshub.com/NPriyanka/LiberiaChapter_MalariaPrevention) |
-| Leveraging LLMs to Understand Global Mental Health Well-being & Fomo | NLP | Hugging Face, Transformers | [GitHub / Article](#) |
-| Developing Personalized AI Travel Advisors for Paris Olympics 2024 | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/ParisFranceChapter_AITravelAdvisors) |
-| Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/KitweChapter_ForecastingCOVID19Dynamics) |
-| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | GEE, Python, GIS libraries | [Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
-| Omdena AI Innovation Challenge: Intelligent Route Optimization Model for Field Sales Agents | Route Optimization | OpenRoute | 
+| Developing an AI-powered App for Predictive Modeling and Forecasting of Malaria Prevention in Liberia | Machine learning, Predictive Model | TensorFlow, OpenCV | [GitHub / Article](https://dagshub.com/NPriyanka/LiberiaChapter_MalariaPrevention) |
+| Leveraging LLMs to Understand Global Mental Health Well-being & Fomo | Large Language Models(LLMs) | Hugging Face, Transformers | [GitHub / Article](#) |
+| Developing Personalized AI Travel Advisors for Paris Olympics 2024 | LLMs, Multi-agentic systems | Python, CrewAI, LLM, Personalized Recommendations | [GitHub / Article](https://dagshub.com/NPriyanka/ParisFranceChapter_AITravelAdvisors) |
+| Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Time series Analysis, Predictive Models | Python, MLFlow, PyCaret | [GitHub / Article](https://dagshub.com/NPriyanka/KitweChapter_ForecastingCOVID19Dynamics) |
+| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | Google Earth Engine(GEE), Python, GIS libraries | [Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
+| Omdena AI Innovation Challenge: Intelligent Route Optimization Model for Field Sales Agents | Route Optimization | OpenRoute API, Exploratory Data Analysis, Flask, Docker | 
 | Building AI Solutions for Mental Health and Well-being for Bhutan | Generative AI, Multi-agent systems | CrewAI, Langchain, PostgreSQL, RAG, FASTAPI, Docker | | 
 
 ---
