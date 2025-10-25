@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanka N!
 
-🎯 **AI Engineer | Machine Learning Enthusiast | Hackathon Winner**  
+🎯 **AI Collaborator and ML Engineer | Machine Learning Enthusiast | Hackathon Winner**  
 🌍 Collaborated on 8+ global AI projects with **Omdena**  
 💡 Skilled in **NLP, LLMs, Computer Vision, Generative AI, and Multi-agentic systems**
 
@@ -36,7 +36,7 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 | Leveraging LLMs to Understand Global Mental Health Well-being & Fomo | NLP | Hugging Face, Transformers | [GitHub / Article](#) |
 | Developing Personalized AI Travel Advisors for Paris Olympics 2024 | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/ParisFranceChapter_AITravelAdvisors) |
 | Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Data Analysis | Python, Pandas, Seaborn | [GitHub / Article](https://dagshub.com/NPriyanka/KitweChapter_ForecastingCOVID19Dynamics) |
-| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | GEE, Python, GIS libraries | (Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
+| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | GEE, Python, GIS libraries | [Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
 | Omdena AI Innovation Challenge: Intelligent Route Optimization Model for Field Sales Agents | Route Optimization | OpenRoute | 
 | Building AI Solutions for Mental Health and Well-being for Bhutan | Generative AI, Multi-agent systems | CrewAI, Langchain, PostgreSQL, RAG, FASTAPI, Docker | | 
 
