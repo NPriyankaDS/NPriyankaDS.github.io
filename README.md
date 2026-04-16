@@ -12,9 +12,9 @@ I’m passionate about using Artificial Intelligence to solve real-world challen
 After completing 8 Omdena collaborations and winning a hackathon for building an LLM-based RAG chatbot,  
 I’m focused on applying AI to create scalable and ethical technology solutions.
 
-🔹 **Current Focus:** Generative AI, LLMs, and AI product development  
-🔹 **Languages:** Python, SQL  
-🔹 **Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, LangChain, Langsmith, CrewAI
+🔹 **Current Focus:** Generative AI, LLMs, Multi-agentic systems and AI product development  
+🔹 **Languages:** Python, SQL, Cypher query language
+🔹 **Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, LangChain, Langsmith, CrewAI, Neo4j
 🔹 **Tools:** Git, Docker, Google Colab, Streamlit, Hugging Face Spaces  
 
 ---
@@ -55,16 +55,15 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 ## ✍️ Blog / Writing
 
 I regularly share learnings and insights from my AI projects and experiments:  
-📝 [Medium](https://medium.com/@nprinka235) | 💼 [LinkedIn](https://github.com/NPriyankaDS/)
+📝 [Medium](https://medium.com/@nprinka235) | 💼 [LinkedIn](https://github.com/NPriyankaDS/](https://www.linkedin.com/in/priyanka-n-1b407655)
 
 ---
 
 ## 📫 Contact
 
 📧 **Email:** [nprinka235@gmail.com]  
-💼 **LinkedIn:** [https://www.linkedin.com/in/priyanka-n-1b407655](#)  
-💻 **GitHub:** [https://github.com/NPriyankaDS/](#)  
-🌐 **Portfolio:** [https://NPriyankaDS.github.io](#)
+💻 **GitHub:** [https://github.com/NPriyankaDS/]
+🌐 **Portfolio:** [https://NPriyankaDS.github.io]
 
 ---
 
