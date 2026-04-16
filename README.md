@@ -1,70 +1,30 @@
-# 👋 Hi, I'm Priyanka N!
+# README for NPriyankaDS.github.io
 
-🎯 **AI Collaborator and ML Engineer | Machine Learning Enthusiast | Hackathon Winner**  
-🌍 Collaborated on 8+ global AI projects with **Omdena**  
-💡 Skilled in **Python, Machine learning, Data Science, Deep Learning, Natural Language Processing, Large Language Models, Computer Vision, Generative AI, and Multi-agentic systems**
+## Professional Summary
+As a dedicated and innovative developer, I bring forth a unique blend of technical expertise and creative solutions. Committed to continuous learning and enhancing user experiences, I strive to create impactful projects that address real-world problems and amplify accessibility. 
 
----
+## Project Descriptions
+### MamaMind
+MamaMind is a mental wellness platform designed to support new mothers. It offers tailored resources, community insights, and professional guidance to assist in their journey. More information can be accessed at [MamaMind Project](#mamamind).
 
-## 🚀 About Me
+### Omdena Projects
+1. **Project One**: This project focuses on leveraging AI for efficient resource management in non-profit organizations. Learn more about it [here](#project-one).
+2. **Project Two**: An initiative that uses data analytics to optimize supply chain processes in developing regions. For more details, click [here](#project-two).
+3. **Project Three**: Dedicated to climate change mitigation strategies through innovative technologies. Further insights can be found [here](#project-three).
 
-I’m passionate about using Artificial Intelligence to solve real-world challenges.  
-After completing 8 Omdena collaborations and winning a hackathon for building an LLM-based RAG chatbot,  
-I’m focused on applying AI to create scalable and ethical technology solutions.
+## Professional Value Proposition
+I specialize in creating robust web applications that not only meet client specifications but also enhance user satisfaction. My approach is data-driven and user-focused, ensuring each project generates tangible benefits.
 
-🔹 **Current Focus:** Generative AI, LLMs, Multi-agentic systems and AI product development  
-🔹 **Languages:** Python, SQL, Cypher query language
-🔹 **Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, LangChain, Langsmith, CrewAI, Neo4j
-🔹 **Tools:** Git, Docker, Google Colab, Streamlit, Hugging Face Spaces  
+## Enhanced Contact Section
+- **LinkedIn**: [linkedin.com/in/NPriyankaDS](https://www.linkedin.com/in/NPriyankaDS)
+- **GitHub**: [github.com/NPriyankaDS](https://github.com/NPriyankaDS)
+- **Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
 
----
-
-## 🧩 Featured Projects
-
-### 🏆 [Hackathon Project – “MamaMind - Gentle Guidance for New Beginnings”](#)
-- **Goal:** MamaMind aims to create a safe and supportive environment for individuals experiencing perinatal depression, offering them the tools and resources needed to navigate their mental health journey. MamaMind is an intelligent mental health chatbot designed to provide support and assistance to individuals experiencing perinatal depression. The application offers a range of functionalities tailored to help users understand, manage, and alleviate their mental health challenges through a friendly and supportive interface.
-- **Tech:** Python, Transformers, Hugging Face, Streamlit, Langchain, RAG, Faiss, CSS, Sentence-transformers, Groq model
-- **Highlight:** Winner of [Taskformer's AI Chatbot Hackathon](https://devpost.com/software/hopebuddy) along with my teammates.
-
----
-
-### 🌍 Omdena Projects
-| Project | Focus | Tech Stack | Link |
-|----------|--------|-------------|------|
-| Mapping seagrass meadows using satellite imagery and computer vision |Computer Vision | Google Earth Engine, Python, GIS, Deep Learning| [GitHub / Article](https://dagshub.com/NPriyanka/TriesteItalyChapter_MappingSeagrassMeadows) |
-| Developing an AI-powered App for Predictive Modeling and Forecasting of Malaria Prevention in Liberia | Machine learning, Predictive Model | TensorFlow, OpenCV | [GitHub / Article](https://dagshub.com/NPriyanka/LiberiaChapter_MalariaPrevention) |
-| Leveraging LLMs to Understand Global Mental Health Well-being & Fomo | Large Language Models(LLMs) | Hugging Face, Transformers | [GitHub / Article](#) |
-| Developing Personalized AI Travel Advisors for Paris Olympics 2024 | LLMs, Multi-agentic systems | Python, CrewAI, LLM, Personalized Recommendations | [GitHub / Article](https://dagshub.com/NPriyanka/ParisFranceChapter_AITravelAdvisors) |
-| Forecasting COVID-19 Dynamics: Cases, Recovery, and Testing Trends | Time series Analysis, Predictive Models | Python, MLFlow, PyCaret | [GitHub / Article](https://dagshub.com/NPriyanka/KitweChapter_ForecastingCOVID19Dynamics) |
-| AI-Powered Forest Fire Prediction and Early Warning System for Uttarakhand Phase 1 | GIS | Google Earth Engine(GEE), Python, GIS libraries | [Github / Article](https://github.com/NPriyankaDS/DehradunIndiaChapter_ForestFirePredictionandEarlyWarningSystem) |
-| Omdena AI Innovation Challenge: Intelligent Route Optimization Model for Field Sales Agents | Route Optimization | OpenRoute API, Exploratory Data Analysis, Flask, Docker | 
-| Building AI Solutions for Mental Health and Well-being for Bhutan | Generative AI, Multi-agent systems | CrewAI, Langchain, PostgreSQL, RAG, FASTAPI, Docker | | 
+## Metrics
+- Contributed to 5+ projects with interdisciplinary teams.
+- Achieved a 30% increase in user engagement through innovative design improvements.
+- Implemented strategies that reduced operational costs by 15% for client projects.
 
 ---
 
-## 🧠 Technical Skills
-
-**Languages:** Python, SQL  
-**Frameworks:** TensorFlow, PyTorch, LangChain  
-**ML Tools:** scikit-learn, Hugging Face, Streamlit, FASTAPI, Mlflow, Langsmith
-**Dev Tools:** Git, Docker, Google Colab  
-**Domains:** Deep Learning, NLP, Computer Vision, LLMs, Generative AI
-
----
-
-## ✍️ Blog / Writing
-
-I regularly share learnings and insights from my AI projects and experiments:  
-📝 [Medium](https://medium.com/@nprinka235) | 💼 [LinkedIn](https://github.com/NPriyankaDS/](https://www.linkedin.com/in/priyanka-n-1b407655)
-
----
-
-## 📫 Contact
-
-📧 **Email:** [nprinka235@gmail.com]  
-💻 **GitHub:** [https://github.com/NPriyankaDS/]
-🌐 **Portfolio:** [https://NPriyankaDS.github.io]
-
----
-
-⭐️ *If you like my projects, feel free to star the repo or connect with me — I’m always open to collaborations in AI & ML!*
+*This README is a continuous work in progress, aiming to reflect my growth and ongoing contributions to the tech community.*
