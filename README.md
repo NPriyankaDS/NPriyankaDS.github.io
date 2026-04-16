@@ -55,7 +55,7 @@ I’m focused on applying AI to create scalable and ethical technology solutions
 ## ✍️ Blog / Writing
 
 I regularly share learnings and insights from my AI projects and experiments:  
-📝 [Medium](https://medium.com/@nprinka235) | 💼 [[LinkedIn](https://github.com/NPriyankaDS/)](#)
+📝 [Medium](https://medium.com/@nprinka235) | 💼 [LinkedIn](https://github.com/NPriyankaDS/)
 
 ---
 
