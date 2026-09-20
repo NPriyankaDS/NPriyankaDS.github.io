@@ -58,9 +58,3 @@ If this app lives at `https://<user>.github.io/` (a user/organization
 site repo), keep `base: '/'` in `vite.config.js`. If you move it into a
 project repo instead (`https://<user>.github.io/<repo>/`), change it to
 `base: '/<repo>/'`.
-
-## Missing asset
-
-Your resume PDF wasn't in the original upload. Drop it in `public/` as
-`resume.pdf` and the "Download Resume" buttons will work — see
-`public/README-add-resume.txt`.
